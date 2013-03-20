@@ -1,5 +1,5 @@
 <?php
-// Sanitzing, validating and sending an email.		
+// Sanitizing, validating and sending an email.		
 			function send_mail($sender_name, $sender_email, $sender_message){
 // First we declare an empty array named $errors.
 // It will contain all the errors that might come up.			
